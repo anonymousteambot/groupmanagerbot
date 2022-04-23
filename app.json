@@ -52,7 +52,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5301852535"
+         "value": "5176081390"
       },
       "BOT_ID": {
          "description": "Your bot ID.. Use any other bot to get it.",
@@ -69,7 +69,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "panda_manager_bot"
+         "value": "Call_me_futurepilot"
       },
       "BOT_USERNAME": {
          "description": "Your bot username without the @",
